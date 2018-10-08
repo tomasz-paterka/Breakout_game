@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  min-height: 100vh;
+}
+
+canvas {
+  background-color: #eee;
+  display: block;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=style.prefixed.css.map */
