@@ -44,5 +44,6 @@
     "onchange": "^5.0.2",
     "parallelshell": "^3.0.2",
     "rimraf": "^2.6.2"
-  }
+  },
+  "dependencies": {}
 }
